@@ -27,7 +27,7 @@ cells with descriptions along with generated graphics. The text cells are both i
   * How do sailors perish?
   * Proportion between man and women
   * At what age have sailors perished?
-  * How many ships have sinked?
+  * How many ships have sunk?
   * How old are the ships when they sink?
   * Ship types
   * What type of materials are the ships made with?
