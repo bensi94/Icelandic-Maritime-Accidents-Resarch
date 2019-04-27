@@ -15,7 +15,8 @@ be executed locally for recreation*
 
 The project is made with Jupyter Notebooks and Python. The paper can be found in notebook file 
 **Rannsókn á sjóslysum á Íslandi frá 1950.ipynb** It includes both executable code cells and text 
-cells with descriptions along with generated graphics. The text cells are both in English and Icelandic.
+cells with descriptions along with generated graphics. The text cells are both in English and Icelandic but plots and 
+data is unfortunately only available in Icelandic.  
   
 
 ### Chapters
