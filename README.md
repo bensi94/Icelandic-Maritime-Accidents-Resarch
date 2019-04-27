@@ -14,7 +14,7 @@ be executed locally for recreation*
 ## Project structure
 
 The project is made with Jupyter Notebooks and Python. The paper can be found in notebook file 
-**Rannsókn á sjóslysum á Íslandi frá 1950.ipynb** It includes both executable code cells and text 
+**[Rannsókn á sjóslysum á Íslandi frá 1950.ipynb](https://github.com/bensi94/Icelandic-Maritime-Accidents-Resarch/blob/master/Ranns%C3%B3kn%20%C3%A1%20sj%C3%B3slysum%20%C3%A1%20%C3%8Dslandi%20fr%C3%A1%201950.ipynb)** It includes both executable code cells and text 
 cells with descriptions along with generated graphics. The text cells are both in English and Icelandic but plots and 
 data is unfortunately only available in Icelandic.  
   
