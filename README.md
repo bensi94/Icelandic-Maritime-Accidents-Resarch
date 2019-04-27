@@ -7,7 +7,9 @@
 the Icelandic Transportation Safety Board*
 
 *Note that the data is not public at this point in time and because of that the code cannot 
-be executed locally for recreation*
+be executed locally for recreation*  
+  
+![Disarfell image](disarfell.jpg)
 
 ## Project structure
 
